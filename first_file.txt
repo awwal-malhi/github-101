@@ -1,2 +1,3 @@
 My first text file that i will commit
 I wanted to add line 1
+I wanted to add line 2
